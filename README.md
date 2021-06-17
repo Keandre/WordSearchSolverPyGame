@@ -8,11 +8,14 @@ Have a word search and a list of words, and this program will display it solved 
 e.g.
 
 "abc
+
 def
+
 ghi"
 
 2. Have a list of words, also separated by line
-3. Run and enjoy your word search completely solved
+3. 
+4. Run and enjoy your word search completely solved
 
 
 ## Current Bugs
