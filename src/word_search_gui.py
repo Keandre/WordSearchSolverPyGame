@@ -43,4 +43,5 @@ def main():
                 sys.exit()
         fpsClock.tick(FPS)
 
-main()
+if __name__ == '__main__':
+    main()
